@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Unsupervised learning, Clustering and 
+Unsupervised machine learning
 @author: pim
 """
 #import required modules and data sets
